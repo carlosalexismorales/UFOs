@@ -48,6 +48,32 @@ In the images below, we see how the website initially looks like when we first v
 
 
 
+
+
+In the images below, the navigation bar and search criteria are highlighted to show how one can reinitilzie the web page and how the table can be updated. One must simply click on the navbar to refresh and clear search results. These search criteria can be changed individually or collectively, meaning one either choose to type in one criteria or multiple ones. As a result of the user's input, the table will update accordingly. 
+
+
+
+
+<img width="1440" alt="Screen Shot 2022-08-09 at 10 20 56 PM" src="https://user-images.githubusercontent.com/102444078/183821970-32da99fe-ae68-4914-8112-004246660614.png">
+
+
+
+
+
+
+<img width="369" alt="Screen Shot 2022-08-09 at 10 22 47 PM" src="https://user-images.githubusercontent.com/102444078/183822240-6eb3e00e-f941-4c18-9de8-4c5779a942c1.png">
+
+
+
+
+
+
+
+
+
+
+
 ## Summary
 
 1. 
