@@ -69,6 +69,15 @@ In the images below, the navigation bar and search criteria are highlighted to s
 
 
 
+In the image below, we see the criteria filled out and the search result - showing the functional output of the code. 
+
+
+
+
+<img width="1432" alt="Screen Shot 2022-08-09 at 10 27 33 PM" src="https://user-images.githubusercontent.com/102444078/183822862-a97c88cd-7f80-40f6-ad7c-bfd5dd9a546b.png">
+
+
+
 
 
 
