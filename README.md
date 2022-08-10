@@ -33,7 +33,18 @@ The project aims to add to a working dynamic webpage that allows users to see or
 
 ## Results
 
-### 
+### UFO Sightings: The Truth is Out There!
+
+
+In the images below, we see how the website initially looks like when we first visit the page. 
+
+<img width="1434" alt="Screen Shot 2022-08-09 at 10 13 46 PM" src="https://user-images.githubusercontent.com/102444078/183821026-61f775ad-b8a5-4680-b16b-2af0cf174a7e.png">
+
+
+
+
+<img width="1439" alt="Screen Shot 2022-08-09 at 10 14 55 PM" src="https://user-images.githubusercontent.com/102444078/183821178-c444c064-ac40-4106-8475-47f43e4645a5.png">
+
 
 
 
