@@ -91,3 +91,13 @@ While this dynamic webpage serves its purpose, there are several drawbacks that 
 
 1. The user must have preexisting knowledge of the data in order to enter it into the search criteria. This website does not scrape data around the internet, rather, it takees data from a specific file in order to spurn out results. This hinders the user's ability to find more data on the subject. 
 2. The search criteria also requires the user to input the data in a case senstive manner. For example, a user has to input the date format exactly how the placeholder shows it to be - anything otherwise will not return any results. 
+
+
+
+
+### Recommendations 
+
+With the following additions, this webpage can become an even more efficient tool for users. 
+
+1. Previously mentioned above, adding more functionality to this webpage so that it can pull data live from the latest sources can enhance the user experience by providing more informaton. 
+2. Allowing users to input data however they like - not just similar to how the placeholder is. If the user inputs data in a way that is incorrect or unrecognizable, the webpage spews back a suggestion and/or correction to help user identify which search criteria they wanted to input. 
