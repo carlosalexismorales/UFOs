@@ -85,4 +85,9 @@ In the image below, we see the criteria filled out and the search result - showi
 
 ## Summary
 
-1. 
+### Drawbacks
+
+While this dynamic webpage serves its purpose, there are several drawbacks that are holding back it's true potiental 
+
+1. The user must have preexisting knowledge of the data in order to enter it into the search criteria. This website does not scrape data around the internet, rather, it takees data from a specific file in order to spurn out results. This hinders the user's ability to find more data on the subject. 
+2. The search criteria also requires the user to input the data in a case senstive manner. For example, a user has to input the date format exactly how the placeholder shows it to be - anything otherwise will not return any results. 
